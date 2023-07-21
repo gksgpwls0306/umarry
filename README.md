@@ -7,7 +7,7 @@ MarryU 로고 로 만든 Splash Screen 제작
 <br>
 <div>MarrU Splash</div>
 <br>
-<img width="30%" src="https://github.com/gksgpwls0306/umarry/assets/138543543/d450b5e4-cada-43e3-bd13-b2e44e069f46"/>
+<img width="30%" src="https://github.com/gksgpwls0306/umarry/assets/65875927/0edca252-6b3e-49b6-941c-bb699487249f"/>
 
 <br>
 <br>
