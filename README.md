@@ -41,18 +41,17 @@ Docker & Jenkins <br>
 
 
 
-
 <hr>
 FlingerPrint <br>
 <br>
 <br>
-<img width="30%" src="https://github.com/gksgpwls0306/umarry/assets/138543543/8a21c2de-e72d-44f5-bfa3-53832a485136"/>
+<img width="30%" src="https://github.com/gksgpwls0306/umarry/assets/65875927/194f33ed-37b6-4768-93d3-774fa4a7d9ea"/>
 
 
 <hr>
 Chatting <br>
 <br>
 <br>
-<img width="30%" src="https://github.com/gksgpwls0306/umarry/assets/138543543/dbd87543-ea47-436d-b4ee-e0742dc9b137"/>
+<img width="30%" src="https://github.com/gksgpwls0306/umarry/assets/65875927/16d45b75-e9b4-43be-8a68-3e7e5e8f5a68"/>
 
 
